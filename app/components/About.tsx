@@ -9,7 +9,7 @@ const About = () => {
   const [ref, inView] = useInView({ triggerOnce: true, threshold: 0.1 })
 
   const stats = [
-    { value: '6+', label: 'Years Experience', icon: '🚀' },
+    { value: '6+', label: 'Years Experience', icon: '⚡' },
     { value: '100%', label: 'ISO 27001 Compliance', icon: '🔒' },
     { value: '4', label: 'Companies', icon: '🏢' },
     { value: '4.0', label: 'Masters GPA', icon: '🎓' },
